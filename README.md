@@ -9,3 +9,6 @@ Transaction details from Ganache
 
 Reciepients address balance and history from Ganache
 ![image](https://user-images.githubusercontent.com/101014324/179581247-505ff8c8-f460-4161-a14f-be6de6533eaa.png)
+
+![image](https://user-images.githubusercontent.com/101014324/179876076-5a840f5e-9ff2-45cf-b869-3a955f29932f.png)
+
