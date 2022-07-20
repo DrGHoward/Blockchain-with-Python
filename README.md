@@ -1,5 +1,6 @@
 # Blockchain-with-Python
 
+In this exersize we 
 Address balance and history from Ganache
 ![image](https://user-images.githubusercontent.com/101014324/179577194-827e7ce1-e12e-4a73-9bee-cf34326223e7.png)
 
