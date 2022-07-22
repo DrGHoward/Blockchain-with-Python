@@ -1,6 +1,7 @@
 # Blockchain-with-Python
 
-In this exersize we 
+In this exersize we generated a new Ethereum account instance by using the mnemonic seed phrase provided by Ganache and we fetched and displayed the account balance associated with the Ethereum account address. We calculated the total value of an Ethereum transaction, including the gas estimate, that pays a Fintech Finder candidate for their work and digitally signed a transaction that pays a Fintech Finder candidate. We then we sent this transaction to the Ganache blockchain and as a last step, we reviewed the transaction hash code associated with the validated blockchain transaction 
+
 Address balance and history from Ganache
 ![image](https://user-images.githubusercontent.com/101014324/179577194-827e7ce1-e12e-4a73-9bee-cf34326223e7.png)
 
